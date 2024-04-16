@@ -1,0 +1,85 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    background-color: aqua;
+    height: 500px;
+}
+
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+
+.dice{
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+
+
+
+body{
+    
+    margin: 0;
+    background-color: yellow;
+    
+}
+
+h1{
+    color: white;
+    font-size: 4.5rem;
+    text-align: center;
+    text-shadow: 5px 0 yellow;
+}
+
+h1:hover{
+  
+    color: grey;
+
+}
+
+p{
+    font-size: 2rem;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 5px 0 blue;
+}
+
+
+p:hover{
+  
+    color: gold;
+    
+
+}
+
+
+
+
+
+
+.btn{
+    background-color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius:7px ;
+    color: white;
+    padding: 16px 25px 16px 25px;
+   
+    margin-top: 20px;
+   font-size: 1rem;
+   font-family: sans-serif;
+
+
+
+}
+
+.btn:hover {
+        background: gold;
+        text-decoration: none;
+        color: grey;
+    }

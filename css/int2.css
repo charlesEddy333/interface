@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+.hone{
+    background-color: purple;
+    color: white;
+    width: 50%;
+    margin: 10px auto;
+    padding: 5px;
+}
+.gamebox{
+    background-color: lightseagreen;
+    width: 50%;
+    margin: 0px auto;
+    height: 65vh;
+}
+.two{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 20px;
+
+}
+input{
+    padding: 31px 170px;
+    position: relative;
+    top: 15px;
+    font-size: 21px;
+    text-align: center;
+}
+button{
+    position: relative;
+    top: 45px;
+    padding: 15px 70px;
+    border-radius: 25px;
+    border: none;
+    background-color: yellow;
+    font-size: 18px;
+}
+.message{
+    position: relative;
+    top: 55px;
+    color: white;
+    font-size: 23px;
+    font-family: cursive;
+}

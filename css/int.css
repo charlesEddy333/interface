@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+.name{
+    background-color: purple;
+    height: 40px;
+    width: 60%;
+    text-align: center;
+    color:white;
+    margin-left: 250px;
+
+}
+
+.gamebox{
+    background-color: aqua;
+    height: 400px;
+    width: 60%;
+    margin-left:250px ;
+
+}
+
+
+.box{
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+
+}
+
+.btn{
+    background-color: yellow;
+    height: 40px;
+    width: 200px;
+    border-radius: 200px;
+    font-size: 30px;
+}
+
+.btn:hover{
+    background-color: yellow;
+    color: aliceblue;
+
+
+}
+
+.a{
+    color: white;
+
+}
+
+.b{
+    color: white;
+
+}
+
+h1{
+    color: white;
+}
